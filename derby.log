@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Apr 08 16:54:18 EDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-018e-bf7d-86ae-00000eb8ec30 
+on database directory C:\Users\akshr\eclipse-workspace\comp2800_assignment3\Contacts_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@133314b 
+Loaded from file:/C:/Users/akshr/Downloads/All%20Software/db-derby-10.17.1.0-bin/db-derby-10.17.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.2+13-LTS-58
+user.dir=C:\Users\akshr\eclipse-workspace\comp2800_assignment3
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
